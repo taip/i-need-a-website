@@ -46,3 +46,5 @@ I haven't personally used or researched any of these, so I can't make a recommen
 ## Learn to Code
 - https://thimble.mozilla.org/en-US/
 - https://developer.mozilla.org/en-US/docs/Learn
+- https://www.khanacademy.org/computing/computer-programming/html-css
+- https://www.codecademy.com/
